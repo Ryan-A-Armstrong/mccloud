@@ -9,5 +9,8 @@ The following code was written for a class project during the fall 2017 semester
 
 For a description of the model and discussion of the results, please see the [final report](https://drive.google.com/file/d/15wpTP5CMHzgxDB1KmxjTfziiRsOMGFGr/view?usp=sharing) and [class presentation](https://drive.google.com/open?id=1w5unAIMaAkL8D7EPcPSrV9Pvj2-bqOv9).
 
-## Running
+## Running the code
 Instructions for running the code are provided in comments at the beginning of the two files. When written, the code was a tool for learning physics. Therefore, it was designed to be read-able and a straight-forward implementation of the theoretical concepts. Now, with with more experience in Python, I plan to return to the code to update the efficiency and style. 
+
+mccloud_transfer.py creates the model and runs the simulation. 
+analysis.py allows for visualizaiton of the results of the simulation. 
