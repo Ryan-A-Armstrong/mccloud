@@ -104,11 +104,6 @@ def make_cloud_strata(L):
                 r = np.sqrt((i-L/2)**2+(j-L/2)**2+(k-L/2)**2)
                 if (0<=r<L/8):
                     cloud_arr[i,j,k] = 128
-                
-                for n in range(0, 5):
-                    if (L/(8-n)<=r<L/(8-n-1):
-                        cloud_arr[i,j,k] = 2**(6-n)
-                """      
                 if (L/8<=r<L/7):
                     cloud_arr[i,j,k] = 64
                 if (L/7<=r<L/6):
@@ -121,7 +116,6 @@ def make_cloud_strata(L):
                     cloud_arr[i,j,k] = 4
                 if (L/3<=r<L/2):
                     cloud_arr[i,j,k] = 2
-                """"
                 if (L/2<=r):
                     cloud_arr[i,j,k] = 0
                 
