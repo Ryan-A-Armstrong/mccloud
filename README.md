@@ -1,4 +1,5 @@
 # mccloud
+![Clumpy](/clumpyPhase.PNG)
 Reverse Mote Carlo approach to modeling ray propagation through a clumpy molecular cloud.
 
 ## Introduction
