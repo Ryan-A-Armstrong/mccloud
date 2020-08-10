@@ -7,7 +7,7 @@ Molecular clouds are interstellar clouds of size and density capable of forming 
 ## Implementation
 The following code was written for a class project during the fall 2017 semester at UNC-Chapel Hill (PHYS 358: Physical Modeling). The implementation is based on the paper *Dust heating in turbulent molecular cloud models* (Bethell et al. 2004).
 
-For a description of the model and discussion of the results, please see the [final report](https://drive.google.com/file/d/15wpTP5CMHzgxDB1KmxjTfziiRsOMGFGr/view?usp=sharing) and [class presentation](https://drive.google.com/open?id=1w5unAIMaAkL8D7EPcPSrV9Pvj2-bqOv9).
+For a description of the model and discussion of the results, please see the [final report](https://github.com/Ryan-A-Armstrong/mccloud/blob/master/FINALMCpaper.pdf) and [class presentation](https://github.com/Ryan-A-Armstrong/mccloud/blob/master/MCCloudPresentation.pdf).
 
 ## Running the code
 Instructions for running the code are provided in comments at the beginning of the two files. When written, the code was a tool for learning physics. Therefore, it was designed to be read-able and a straight-forward implementation of the theoretical concepts. Now, with with more experience in Python, I plan to return to the code to update the efficiency and style. 
